@@ -26,7 +26,7 @@ export const Hero = () => {
         </div>
       </div>
       <div className="flex flex-1 items-center justify-end">
-        <div className="size-full max-h-96 max-w-96 shrink-0 rounded-full border border-indigo-300 p-8 sm:size-96 lg:border-red-600">
+        <div className="size-full max-h-96 max-w-96 shrink-0 rounded-full border border-indigo-300 p-8 sm:size-96">
           <Image
             src="/Bansi-Mangukiya.webp"
             width={1080}
